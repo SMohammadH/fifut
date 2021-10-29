@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fifut/static/css/main.a617e044.chunk.css",
-    "main.js": "/fifut/static/js/main.93292d8c.chunk.js",
-    "main.js.map": "/fifut/static/js/main.93292d8c.chunk.js.map",
+    "main.js": "/fifut/static/js/main.6d5a86b7.chunk.js",
+    "main.js.map": "/fifut/static/js/main.6d5a86b7.chunk.js.map",
     "runtime-main.js": "/fifut/static/js/runtime-main.cdbfccf8.js",
     "runtime-main.js.map": "/fifut/static/js/runtime-main.cdbfccf8.js.map",
     "static/js/2.137d2921.chunk.js": "/fifut/static/js/2.137d2921.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cdbfccf8.js",
     "static/js/2.137d2921.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.93292d8c.chunk.js"
+    "static/js/main.6d5a86b7.chunk.js"
   ]
 }
